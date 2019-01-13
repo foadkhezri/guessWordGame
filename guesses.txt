@@ -1,0 +1,10 @@
+rabbit
+school
+home
+giraffe
+book
+clothes
+human
+laptop
+python
+new york
